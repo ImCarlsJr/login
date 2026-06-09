@@ -1,0 +1,9 @@
+2026-05-26 09:42:26 - REGISTRO EXITOSO | Usuario: carlos
+2026-05-26 09:48:40 - REGISTRO EXITOSO | Usuario: carlitos
+2026-05-26 09:49:24 - Login exitoso para usuario: carlitos
+2026-05-26 09:54:28 - REGISTRO EXITOSO | Usuario: paula
+2026-05-26 09:54:44 - Login exitoso para usuario: paula
+2026-05-26 10:06:14 - Login exitoso para usuario: paula
+2026-05-26 10:06:57 - Login exitoso para usuario: paula
+2026-06-02 08:29:44 - REGISTRO EXITOSO | Usuario: diego
+2026-06-02 08:54:48 - Login exitoso para usuario: diego
